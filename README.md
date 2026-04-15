@@ -1,13 +1,16 @@
 #  Vendor Performance Analytics System
 
 ##  Authors  
-Shaik Thaslim *(Add your team members if any)*  
+S.Thaslim (Y22ACS562)
+s.Vasavi (Y22ACS550)
+M.Avinash(Y22ACS506)
+R.Abhinay (L23ACS612)
 
 ---
 
 ##  Implementation  
 **GitHub Repository:**  
-Vendor Performance Analytics System Implementation: *(Add your GitHub link here)*  
+Vendor Performance Analytics System Implementation:https://github.com/Y22ACS562/Vendor-Performance-Analysis.git
 
 ---
 
